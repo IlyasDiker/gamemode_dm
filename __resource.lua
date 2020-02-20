@@ -2,4 +2,7 @@
 
 description 'DEATHMATCH ZWIN'
 
-client_script	'client.lua'
+client_scripts	{
+    'client.lua',
+    'pvp.lua'
+}
