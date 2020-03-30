@@ -11,7 +11,7 @@ Nothing special Just a dm Gamemode for FiveM
 Select a team with `/team [t - ct] `
 
 - T : Hamajistan
-- Ct : SuperCops
+- Ct : SuperCop
 
 Spawn a car with `/car`
 
