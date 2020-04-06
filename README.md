@@ -15,7 +15,6 @@ Select a team with `/team [t - ct] `
 
 Spawn a car with `/car`
 
-
 Other usefull cmds : 
 `/help - /respawn`
 
