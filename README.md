@@ -1,5 +1,4 @@
-# gamemode_dm
-
+# Deathmatch GameMode
 Nothing special Just a dm Gamemode for FiveM 
 
 #### Requirement :
